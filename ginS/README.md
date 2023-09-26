@@ -6,8 +6,8 @@ This is API experiment for Gin.
 package main
 
 import (
-	"github.com/gin-gonic/gin"
-	"github.com/gin-gonic/gin/ginS"
+	"github.com/iifiigii/gin"
+	"github.com/iifiigii/gin/ginS"
 )
 
 func main() {
